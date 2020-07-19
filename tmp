@@ -1,0 +1,7 @@
+git pull origin master --allow-unrelated-histories
+git merge origin origin/master
+
+
+git remote add origin https://github.com/gdssclasses/gdss.git
+
+https://github.com/gdssclasses/gdss.git
